@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [борис колышкин](https://up.htmlacademy.ru/adaptive/31/user/1985791).
-* Наставник: `Неизвестно`.
+* Наставник: [Владислав Ермолаев] (https://github.com/boris0501/1985791-cat-energy-31/pull/1).
 
 ---
 
@@ -32,7 +32,7 @@ _`.github`, `.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.lint
 
 Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии.
 
-#### 4. Начинайте обучение!
+#### 4. Начинайте обучение
 
 ---
 
@@ -40,5 +40,3 @@ _`.github`, `.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.lint
 
 Репозиторий создан для обучения на профессиональном онлайн‑курсе «[HTML и CSS. Адаптивная вёрстка и автоматизация](https://htmlacademy.ru/intensive/adaptive)» от [HTML Academy](https://htmlacademy.ru).
 
-[check-image]: https://github.com/htmlacademy-adaptive/1985791-cat-energy-31/workflows/Project%20check/badge.svg?branch=master
-[check-url]: https://github.com/htmlacademy-adaptive/1985791-cat-energy-31/actions
