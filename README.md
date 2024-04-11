@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [борис колышкин](https://up.htmlacademy.ru/adaptive/31/user/1985791).
-* Наставник: [Владислав Ермолаев] (https://github.com/boris0501/1985791-cat-energy-31/pull/1).
+* Наставник: [Владислав Ермолаев] (https://htmlacademy.ru/profile/id128353).
 
 ---
 
