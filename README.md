@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [борис колышкин](https://up.htmlacademy.ru/adaptive/31/user/1985791).
-* Наставник: [Владислав Ермолаев] (https://htmlacademy.ru/profile/id128353).
+* Наставник: [Владислав Ермолаев](https://htmlacademy.ru/profile/id128353).
 
 ---
 
@@ -39,4 +39,3 @@ _`.github`, `.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `.lint
 <a href="https://htmlacademy.ru/intensive/adaptive"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/adaptive/logo-for-github-2.png"></a>
 
 Репозиторий создан для обучения на профессиональном онлайн‑курсе «[HTML и CSS. Адаптивная вёрстка и автоматизация](https://htmlacademy.ru/intensive/adaptive)» от [HTML Academy](https://htmlacademy.ru).
-
